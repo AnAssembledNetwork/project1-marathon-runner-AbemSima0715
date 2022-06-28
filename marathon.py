@@ -23,8 +23,8 @@ METERS_IN_MILE = 1609.34
 def fitness():
 
     # This ignores our code so that we do not get an error Remove 'pass' when you want to start testing code.
+    print("Hey")
     
-    pass
     
 
 # This invokes the main function.  It is always included in our
